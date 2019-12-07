@@ -2,7 +2,7 @@
 
 **A curated list of image denoising resources and a benchmark for image denoising approaches.**
 
-**This list is maintained by:** **Wenhan Yang** **[[STRUCT]](http://www.icst.pku.edu.cn/struct/struct.html) PKU (PI: Prof. Jiaying Liu)**
+**This list is maintained by:** **Wenhan Yang** **[[STRUCT]](http://www.icst.pku.edu.cn/struct/struct.html) PKU (PI: Prof. Jiaying Liu), mroe detials and more newest literates, please see [[Image-Denoising-State-of-the-art]](https://github.com/flyywh/Image-Denoising-State-of-the-art) **
 
 
 ## State-of-the-art algorithms
